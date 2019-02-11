@@ -16,6 +16,7 @@
 </ul>
 </hr>
 
+<h2> Directions </h2>
 <ol>
     <li>Lay both slices of bread next to each other on a cutting board.</li>
     <li>With the butter knife, spread a 1/8 inch layer of peanut butter on the left side</li>
