@@ -1,7 +1,7 @@
 <h1>The Perfect PB&amp;J</h1>
 </hr>
 
-<img src"pbj_sandwich:/tag>
+<img src="pbj_sandwich:/tag>
 <h2> Description </h2>
 <p>This peanut butter and jelly sandwich is my favorite sandwich. It has the perfect balance of ingredients and looks great when made right.</p>
 </hr>
